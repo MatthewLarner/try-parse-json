@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/matt-larner/try-parse-json.git"
+    "url": "https://github.com/MatthewLarner/try-parse-json.git"
   },
   "author": "Matt Larner <matt.larner.dev@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/matt-larner/try-parse-json/issues"
+    "url": "https://github.com/MatthewLarner/try-parse-json/issues"
   },
-  "homepage": "https://github.com/matt-larner/try-parse-json",
+  "homepage": "https://github.com/MatthewLarner/try-parse-json",
   "devDependencies": {
     "tape": "^3.0.3"
   }
