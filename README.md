@@ -13,5 +13,5 @@ tryParseJSON('{"a": 1, "b": 2}') // {a:1, b:2}
 ### Errors
 
 ```javascript
-tryParseJSON('[1, 2, 3,]'),message // 'Unexpected token ]'
+tryParseJSON('[1, 2, 3,]').message // 'Unexpected token ]'
 ```
